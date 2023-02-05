@@ -16,7 +16,7 @@
 
 Overall, opening multiple tabs in Google Chrome can impact the performance and stability of your computer and browsing experience, so it's important to manage your tabs effectively.
 
-So to deal with this problem we aim to improve the performance and stability of your computer and browsing experience by adding a google chrome extension named "The Great Suspender Original" 
+So to deal with this problem we aim to improve the performance and stability of your computer and browsing experience by adding a google chrome extension named ***"The Great Suspender Original"*** 
 
 <p align="center">
  <img src="./images/The_Great_Suspender_Original_Extension.png" alt="The_Great_Suspender_Original_Extension">
